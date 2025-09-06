@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working an RPG, Portfolio Website, and Django webapp<br>I'm learning JavaScript, Django, ReactJS, Flutter, Cybersecurity<br>
+I'm currently working on a management system, Portfolio Website, and Django webapp<br>I'm learning JavaScript, Django, ReactJS, Flutter, Cybersecurity<br>
 
 
 ## 🌐 Socials:
